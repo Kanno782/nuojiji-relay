@@ -9,7 +9,7 @@ compatibility_flags = ["nodejs_compat"]
 # 把返回的 id 填到下面 binding 的 id 字段。
 [[kv_namespaces]]
 binding = "OUTBOX"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "71fa3e5952cc493186987a7f7661db26"
 
 # secret 不写这里，用命令设：
 #   wrangler secret put RELAY_SECRET
